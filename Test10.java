@@ -3,6 +3,7 @@ public class Test10 {
     //hhhh
     //müetereeee
     //Brunooooo
+    //TEKO
     public class Main {
 import javax.swing.*;
 import java.awt.event.ActionEvent;
