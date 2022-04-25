@@ -2,7 +2,7 @@ package ch.teko.prg;
 
 //infos und so :)
 //Test
-//
+//Gugus
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
